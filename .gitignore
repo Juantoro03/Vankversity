@@ -1,0 +1,25 @@
+# Archivos de entorno con información sensible
+.env
+
+# Dependencias de Node.js
+node_modules/
+package-lock.json
+
+# Archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de caché y temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Archivos del editor de código (VSCode)
+.vscode/
+
+# Archivos del sistema
+.idea/
+*.swp
+*.swo
